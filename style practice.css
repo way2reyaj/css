@@ -1,0 +1,20 @@
+ /* h1 {
+  text-align: center;
+  text-decoration: red underline; 
+} */
+
+ a {
+   text-decoration: none;
+ }
+
+ #h1 {
+   font-weight: normal;
+ }
+
+ #h2 {
+   font-weight: bold;
+ }
+
+ #h3 {
+   font-weight: lighter;
+ }
